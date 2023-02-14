@@ -23,7 +23,6 @@ Para rodar este projeto, você precisa ter instalado em sua máquina:
 
 2. Abra o projeto em sua IDE preferida e execute a classe principal, chamada `Conta.java`
 
-3. Siga as instruções no console para realizar as operações bancárias fictícias (abertura de conta, depósito, saque, etc.).
 
 
 ## Considerações Finais
