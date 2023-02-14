@@ -18,17 +18,12 @@ Para rodar este projeto, você precisa ter instalado em sua máquina:
 1. Clone este repositório em sua máquina local:
 
 ```bash
-  git clone https://github.com/MoisesssDev/banco-ficticio.git
+  git clone https://github.com/MoisesssDev/Bytebank-0.2.0.git
 ```
 
 2. Abra o projeto em sua IDE preferida e execute a classe principal, chamada `Conta.java`
 
 3. Siga as instruções no console para realizar as operações bancárias fictícias (abertura de conta, depósito, saque, etc.).
-## Estrutura do Projeto
-
-O projeto é composto pelas seguintes classes:
-
-* `Conta`: classe que representa uma conta bancária, contendo informações sobre o titular da conta, o número da conta e o saldo.
 
 
 ## Considerações Finais
